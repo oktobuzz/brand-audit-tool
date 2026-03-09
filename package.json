@@ -1,0 +1,38 @@
+{
+  "name": "brand-audit-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@crawlee/cheerio": "^3.15.3",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "apify-client": "^2.20.0",
+    "chart.js": "^4.5.1",
+    "cheerio": "^1.1.2",
+    "crawlee": "^3.15.3",
+    "file-saver": "^2.0.5",
+    "google-trends-api": "^4.9.2",
+    "googleapis": "^167.0.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
+    "next": "^16.0.7",
+    "pdf-parse": "^2.4.5",
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.2.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.2.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "typescript": "^5.9.3"
+  }
+}
